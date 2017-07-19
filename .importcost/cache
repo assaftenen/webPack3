@@ -1,0 +1,4 @@
+{
+  "require('clean-webpack-plugin')": 0,
+  "require('html-webpack-plugin')": 0
+}
